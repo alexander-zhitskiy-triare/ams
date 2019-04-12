@@ -1,0 +1,3 @@
+class SubUser < ApplicationRecord
+
+end
